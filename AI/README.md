@@ -2,8 +2,5 @@
 
 ## Machine Learning
 
-Following Kaggle Machine Learning tutorial (intro, intermediate and advanced)
-
-1. **Intro to Machine Learning**
-
-[resource](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [x] [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [ ] [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
